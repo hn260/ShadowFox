@@ -21,7 +21,7 @@ Each project follows a complete machine learning workflow including:
 ## Repository Structure
 
 ```
-Machine-Learning-Internship-Projects/
+ShadowFox AI Machine-Learning-Internship-Projects/
 
 ├── Task-1-Boston-House-Price-Prediction
 │   ├── House_Price_Prediction_Model.ipynb
